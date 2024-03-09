@@ -1,0 +1,27 @@
+{
+  "name": "osp_multisum",
+  "version": "1.0.0",
+  "description": "Open source project about multi summary built on Tea testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "osp_multisum": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VillafanaTronaas94/osp_multisum.git"
+  },
+  "homepage": "https://github.com/VillafanaTronaas94/osp_multisum/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "VillafanaTronaas94",
+  "license": "MIT"
+}
